@@ -1,9 +1,9 @@
-# Conversores App
+# Conversores
 
-## Aplicativo para iPhone que realiza conversão de medidas com Swift 5 (Storyboard) + Xcode 11
+## Aplicativo para iPhone que realiza conversão de medidas.
 
-![Captura de Tela 2020-08-16 às 18 06 30](https://user-images.githubusercontent.com/10690387/90343977-fa6d5800-dfeb-11ea-9bbf-81fe9bca415d.png)
-![Captura de Tela 2020-08-16 às 18 06 58](https://user-images.githubusercontent.com/10690387/90343981-02c59300-dfec-11ea-94ac-0d860a88c385.png)
-![Captura de Tela 2020-08-16 às 18 07 15](https://user-images.githubusercontent.com/10690387/90343982-048f5680-dfec-11ea-8aae-4fd4d2525fcd.png)
-![Captura de Tela 2020-08-16 às 18 07 23](https://user-images.githubusercontent.com/10690387/90343983-06591a00-dfec-11ea-9a72-448069f88704.png)
-![Captura de Tela 2020-08-16 às 18 07 29](https://user-images.githubusercontent.com/10690387/90343987-0822dd80-dfec-11ea-97d9-679906a61d2b.png)
+![Screen Shot 2021-05-28 at 11 24 23](https://user-images.githubusercontent.com/10690387/119999867-94fdbd00-bfa8-11eb-83f9-34901be41f3f.png)
+![Screen Shot 2021-05-28 at 11 25 12](https://user-images.githubusercontent.com/10690387/119999885-99c27100-bfa8-11eb-9078-1337ba48eefc.png)
+![Screen Shot 2021-05-28 at 11 25 18](https://user-images.githubusercontent.com/10690387/119999892-9b8c3480-bfa8-11eb-87e8-adc1b3fd9079.png)
+![Screen Shot 2021-05-28 at 11 25 30](https://user-images.githubusercontent.com/10690387/119999896-9dee8e80-bfa8-11eb-9bce-e41c63925d23.png)
+![Screen Shot 2021-05-28 at 11 31 30](https://user-images.githubusercontent.com/10690387/119999901-a050e880-bfa8-11eb-9b87-bb7f27f3327d.png)

@@ -10,6 +10,10 @@ class ViewController: UIViewController {
     @IBOutlet weak var lbResultUnit: UILabel!
     @IBOutlet weak var lbUnit: UILabel!
     
+    override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {
+        view.endEditing(true)
+    }
+    
     //  MARK: Ação do botão que exibe a próxima medida
     @IBAction func showNext(_ sender: UIButton) {
         switch lbUnit.text! {
@@ -59,6 +63,7 @@ class ViewController: UIViewController {
         
         //  MARK: Formata o resultado da conversão
         let result = Double(lbResult.text!)!
+        
         lbResult.text = String(format: "%.2f", result)
     }
     
@@ -95,10 +100,10 @@ class ViewController: UIViewController {
         
         if btUnit1.alpha == 1.0 {
             lbResultUnit.text = CurrencyEnum.dollar.rawValue
-            lbResult.text = String(currency / 5.42)
+            lbResult.text = String(currency / 5.24)
         } else {
             lbResultUnit.text = CurrencyEnum.real.rawValue
-            lbResult.text = String(currency * 5.42)
+            lbResult.text = String(currency * 5.24)
         }
     }
     
